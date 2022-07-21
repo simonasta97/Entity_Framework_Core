@@ -1,0 +1,13 @@
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+F:\Entity Framework Core\repos\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+F:\Entity Framework Core\repos\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+F:\Entity Framework Core\repos\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+F:\Entity Framework Core\repos\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+F:\Entity Framework Core\repos\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+F:\Entity Framework Core\repos\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache

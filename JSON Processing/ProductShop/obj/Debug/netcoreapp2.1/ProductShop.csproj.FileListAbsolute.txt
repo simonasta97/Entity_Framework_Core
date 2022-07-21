@@ -1,0 +1,13 @@
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+F:\Entity Framework Core\repos\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+F:\Entity Framework Core\repos\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+F:\Entity Framework Core\repos\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+F:\Entity Framework Core\repos\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+F:\Entity Framework Core\repos\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+F:\Entity Framework Core\repos\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
